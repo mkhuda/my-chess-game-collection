@@ -1,0 +1,22 @@
+[Event "FICS rated blitz game"]
+[Site "freechess.org"]
+[Date "2018.03.16"]
+[Round ""]
+[White "Atiratha"]
+[Black "mpns"]
+[Result "1-0"]
+[ECO "E09"]
+[Opening "Catalan"]
+[Variation "Closed, Main line"]
+[WhiteElo "1926"]
+[BlackElo "1922"]
+[TimeControl "180+0"]
+[WhiteClock "0:01:10.349"]
+[BlackClock "0:01:32.113"]
+[PlyCount "51"]
+[Termination "normal"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 Be7 5. Bg2 O-O 6. O-O c6 7. Nbd2 Nbd7 8.
+Qc2 b6 9. e4 Bb7 10. e5 Ne8 11. cxd5 cxd5 12. Re1 Rc8 13. Qa4 a5 14. Bf1 Nc7
+15. Bd3 h6 16. Bb1 Na6 17. Qd1 Qc7 18. Nf1 Nb4 19. Ne3 Ba6 20. a3 Nc6 21. Ng4
+Ncb8 22. Nxh6+ gxh6 23. Bxh6 Rfe8 24. Ng5 Bf8 25. Qh5 Bxh6 26. Qxf7+ 1-0 

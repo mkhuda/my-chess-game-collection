@@ -1,0 +1,28 @@
+[Event "FICS rated blitz game"]
+[Site "freechess.org"]
+[Date "2018.03.15"]
+[Round ""]
+[White "Hexatetra"]
+[Black "Kombo"]
+[Result "1-0"]
+[ECO "C20"]
+[Opening "Alapin's Opening"]
+[WhiteElo "2189"]
+[BlackElo "2168"]
+[TimeControl "180+0"]
+[WhiteClock "0:00:14.216"]
+[BlackClock "0:00:06.545"]
+[PlyCount "139"]
+[Termination "normal"]
+
+1. e4 e5 2. Ne2 Nf6 3. Ng3 Nc6 4. c3 d5 5. exd5 Nxd5 6. Be2 Be7 7. O-O O-O 8.
+d3 Be6 9. Nd2 Qd7 10. Nde4 h6 11. Nd2 Nf4 12. Nf3 Qd5 13. Bxf4 exf4 14. Ne4
+Rfe8 15. Ned2 Qb5 16. b4 Qf5 17. d4 Qg6 18. b5 Bh3 19. Ne1 Na5 20. Bh5 Qg5 21.
+Ne4 Qd5 22. Bf3 Bg4 23. Bxg4 Qxe4 24. Bf3 Qg6 25. Qd3 Qd6 26. Rb1 a6 27. a4
+axb5 28. axb5 c6 29. bxc6 bxc6 30. Nc2 Qd7 31. Nb4 Bd6 32. Ra1 Ra7 33. Rxa5
+Rxa5 34. Bxc6 Qc8 35. Bxe8 Qxe8 36. Nc2 Ra2 37. c4 Qa4 38. Rc1 f3 39. gxf3 Bf4
+40. Ne3 Bxe3 41. Qxe3 Ra1 42. Rxa1 Qxa1+ 43. Kg2 Qa2 44. c5 Qd5 45. Qe8+ Kh7
+46. Qe4+ Qxe4 47. fxe4 Kg6 48. Kf3 Kf6 49. Ke3 Ke6 50. f4 g5 51. fxg5 hxg5 52.
+Kf3 f6 53. Kg4 Ke7 54. Kf5 Kf7 55. h3 Ke7 56. d5 Kf7 57. c6 Kg7 58. Ke6 g4 59.
+hxg4 Kg6 60. c7 Kg5 61. c8=Q Kg6 62. Ke7 Kg5 63. Qf5+ Kh4 64. Qxf6+ Kg3 65. Qf5
+Kh4 66. g5 Kg3 67. g6 Kh4 68. g7 Kg3 69. g8=Q+ Kh4 70. Qfh7# 1-0 

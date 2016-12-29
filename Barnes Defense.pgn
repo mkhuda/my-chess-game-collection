@@ -1,0 +1,23 @@
+[Event "Local Event"]
+[Site "Local Site"]
+[Date "2018.03.19"]
+[Round "1"]
+[White "mkhuda"]
+[Black "fairymax"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "Barnes defense"]
+[PlyCount "39"]
+[Termination "normal"]
+
+1. e4 f6 {[%eval 1.02/15]} 2. d4 {[%eval 1.10/5]} g5 {[%eval 327.67/127]} 3.
+Nf3 Nc6 {[%eval 5.61/18]} 4. Nc3 {[%eval 1.27/8]} a5 {[%eval 5.58/18]} 5. a4
+{[%eval 1.08/7]} Nh6 {[%eval 1.83/16]} 6. e5 {[%eval -0.47/5]} Nf5 {[%eval
+2.88/18]} 7. Nd5 {[%eval 1.64/10]} b6 {[%eval 4.69/18]} 8. exf6 {[%eval
+1.90/10]} exf6 {[%eval 3.31/14]} 9. Bb5 {[%eval 1.56/10]} Bd6 {[%eval 2.29/14]}
+10. O-O {[%eval 1.27/10]} O-O {[%eval 1.40/14]} 11. Qd3 {[%eval 0.84/9]} Nce7
+{[%eval 1.26/15]} 12. Nxe7+ Nxe7 {[%eval 1.32/17]} 13. Bc4+ Kg7 {[%eval
+0.82/16]} 14. Qe3 {[%eval 0.24/11]} Nf5 {[%eval 3.00/19]} 15. Qe4 g4 {[%eval
+6.06/19]} 16. Qxf5 gxf3 {[%eval 18.41/19]} 17. Qxf3 Rb8 {[%eval 2.76/18]} 18.
+Qg4+ {[%eval -2.59/8]} Kh8 {[%eval 2.57/19]} 19. Bh6 Re8 {[%eval 327.67/127]}
+20. Qg7# {[%eval -327.67/127]} 1-0 

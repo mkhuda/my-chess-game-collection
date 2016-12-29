@@ -1,0 +1,23 @@
+[Event "FICS rated blitz game"]
+[Site "freechess.org"]
+[Date "2018.03.15"]
+[Round ""]
+[White "trss"]
+[Black "Taktikallergie"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "Anti-anti-Caro-Kann defense"]
+[WhiteElo "1676"]
+[BlackElo "1777"]
+[TimeControl "180+0"]
+[WhiteClock "23:59:58.252"]
+[BlackClock "0:01:04.732"]
+[PlyCount "58"]
+[Termination "time forfeit"]
+
+1. e4 c6 2. c4 d5 3. cxd5 cxd5 4. exd5 Nf6 5. Nc3 Nxd5 6. d4 Nc6 7. Nf3 Bg4 8.
+Be2 e6 9. O-O Be7 10. Nxd5 Qxd5 11. Be3 O-O 12. h3 Bh5 13. b3 Bf6 14. Rc1 Rfd8
+15. Rc4 Qd6 16. Qa1 Rac8 17. Rd1 a6 18. g3 b5 19. Bf4 Qd7 20. Rxc6 Rxc6 21. Be5
+Rc2 22. Bd3 Bxf3 23. Bxc2 Bxd1 24. Bxf6 Bxc2 25. Bxd8 Qxd8 26. Qc3 Be4 27. f3
+Ba8 28. Qc5 g6 29. Qa7 Qd5 0-1 

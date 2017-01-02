@@ -1,0 +1,24 @@
+[Event "Local Event"]
+[Site "Local Site"]
+[Date "2018.03.18"]
+[Round "1"]
+[White "mkhuda"]
+[Black "fairymax"]
+[Result "1-0"]
+[ECO "A11"]
+[Opening "English"]
+[Variation "Caro-Kann defensive system"]
+[PlyCount "37"]
+[Termination "normal"]
+
+1. c4 {[%eval -0.18/5]} c6 {[%eval 0.47/17]} 2. Nf3 {[%eval 0.32/10]} f6
+{[%eval 1.13/15]} 3. e3 e5 {[%eval 1.44/15]} 4. Nxe5 fxe5 {[%eval -0.96/14]} 5.
+Qh5+ {[%eval -0.98/8]} g6 {[%eval 2.85/15]} 6. Qxe5+ {[%eval 2.78/11]} Ne7
+{[%eval 4.24/17]} 7. Qxh8 {[%eval 4.14/8]} h5 {[%eval 4.67/16]} 8. Nc3 d5
+{[%eval 5.15/17]} 9. cxd5 Nxd5 {[%eval 4.98/17]} 10. Bd3 {[%eval 4.82/9]} Nf4
+{[%eval 5.68/18]} 11. Be4 {[%eval 5.70/10]} Nd3+ {[%eval 5.55/18]} 12. Ke2
+{[%eval 5.69/8]} Nxc1+ {[%eval 5.71/19]} 13. Raxc1 Bg4+ {[%eval 6.68/18]} 14.
+f3 Be6 {[%eval 6.68/17]} 15. Bxg6+ {[%eval 6.60/12]} Ke7 {[%eval 327.67/44]}
+16. Qh7+ {[%eval 327.67/14]} Kd6 {[%eval 327.67/57]} 17. Ne4+ Ke5 {[%eval
+327.67/127]} 18. Qxh5+ {[%eval 327.67/127]} Bf5 {[%eval 327.67/127]} 19. Qxf5#
+1-0 

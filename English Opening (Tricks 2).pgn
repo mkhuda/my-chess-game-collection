@@ -1,0 +1,22 @@
+[Event "Local Event"]
+[Site "Local Site"]
+[Date "2018.03.18"]
+[Round "1"]
+[White "mkhuda"]
+[Black "fairymax"]
+[Result "1-0"]
+[ECO "A10"]
+[Opening "English Opening"]
+[PlyCount "35"]
+[Termination "normal"]
+
+1. c4 g5 {[%eval 0.77/14]} 2. Nf3 h6 {[%eval 0.82/14]} 3. h3 Nc6 {[%eval
+0.84/15]} 4. d4 {[%eval 0.82/16]} d5 {[%eval 1.43/16]} 5. cxd5 {[%eval
+1.36/10]} Qxd5 {[%eval 1.22/17]} 6. Nc3 {[%eval 1.22/11]} Qf5 {[%eval 2.71/16]}
+7. e4 {[%eval 2.71/10]} Qa5 {[%eval 4.46/17]} 8. Bd2 {[%eval 4.56/10]} Be6
+{[%eval 6.28/15]} 9. Nd5 {[%eval 6.21/10]} Nb4 {[%eval 10.23/17]} 10. Bxb4
+{[%eval 10.16/14]} Qxd5 {[%eval 10.59/17]} 11. exd5 Bxd5 {[%eval 10.60/17]} 12.
+h4 {[%eval 10.46/7]} a5 {[%eval 11.31/16]} 13. Qa4+ {[%eval 11.32/9]} Bc6
+{[%eval 16.47/17]} 14. Bb5 {[%eval 16.54/9]} gxh4 {[%eval 25.72/18]} 15. Bxc6+
+{[%eval 25.79/10]} bxc6 {[%eval 327.67/127]} 16. Qxc6+ {[%eval 327.67/41]} Kd8
+{[%eval 327.67/127]} 17. Ne5 Rb8 {[%eval 327.67/127]} 18. Qd7# 1-0 

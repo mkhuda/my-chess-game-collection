@@ -1,0 +1,14 @@
+[Event "?"]
+[Site "?"]
+[Date "2018.03.18"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[BlackAI "Stockfish"]
+[BlackLevel "easy"]
+[Time "13:04:34"]
+[X-GNOME-ClockType "simple"]
+[X-GNOME-TimerIncrement "1"]
+
+1. c4 e6 2. d4 Nc6 3. Nf3 d5 4. Na3 Bxa3 5. bxa3 b6 6. Qa4 Qd7 7. e3 Nf6 8. Ng5 e5 9. dxe5 Nxe5 10. Qb5 h6 11. Nf3 Nxf3+ 12. gxf3 O-O 13. e4 dxe4 14. fxe4 Re8 15. Bg2 c6 16. Qb4 Nxe4 17. O-O c5 18. Qe1 Qd4 19. Rb1 Bg4 20. Be3 Qd6 21. f3 Bf5 22. fxe4 Bxe4 23. Rd1 Qe6 24. Bf4 Qxc4 25. Bxh6 Bf3 26. Qg3 Qg4 27. Rxf3 Re4 28. h3 Qg6 29. Qxg6 fxg6 30. Rf2 Re5 31. Bxa8 gxh6 32. Bd5+ Rxd5 33. Rxd5 g5 34. Rd7 c4 35. Rxa7 c3 36. Rc2 Kf8 37. Rxc3 g4 38. hxg4 b5 39. Rf3+ Ke8 40. Ra8+ Ke7 41. Rf3f8 h5 42. gxh5 Kd6 43. Rfd8+ Ke5 44. Ra5 Ke4 45. Rxb5 Ke3 46. Rb3+ Ke2 47. Kg2 Ke1 48. Rd8d3 Ke2 49. Re3+ Kd1 50. Kf2 Kc1 51. Re2 Kd1 52. Rb1# 1-0

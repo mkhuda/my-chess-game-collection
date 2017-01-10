@@ -1,0 +1,24 @@
+[Event "FICS rated blitz game"]
+[Site "freechess.org"]
+[Date "2018.03.16"]
+[Round ""]
+[White "timkal"]
+[Black "asiar"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, Closed variation"]
+[WhiteElo "1537"]
+[BlackElo "2164"]
+[TimeControl "300+0"]
+[WhiteClock "0:02:31.141"]
+[BlackClock "0:01:50.954"]
+[PlyCount "70"]
+[Termination "normal"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. exd5 exd5 5. Ngf3 Bg4 6. Be2 Bd6 7. h3 Bh5 8.
+c4 O-O 9. c5 Be7 10. O-O b6 11. cxb6 axb6 12. Re1 Nc6 13. Nf1 Re8 14. a3 Ne4
+15. Be3 Bf6 16. Rc1 Qd6 17. Qc2 Bxf3 18. Bxf3 Nxd4 19. Bxd4 Bxd4 20. Bxe4 dxe4
+21. Rxe4 c5 22. Rxe8+ Rxe8 23. Nd2 Re2 24. Rf1 Qf4 25. Qa4 Bxf2+ 26. Kh1 Qxa4
+27. Nf3 Qf4 28. Rd1 h6 29. b4 Bg3 30. bxc5 bxc5 31. a4 Qxa4 32. Rd8+ Kh7 33.
+Ng1 Re1 34. Rd2 Rxg1+ 35. Kxg1 Qa1+ 0-1 

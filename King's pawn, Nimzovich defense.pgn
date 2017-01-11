@@ -1,0 +1,21 @@
+[Event "Local Event"]
+[Site "Local Site"]
+[Date "2018.03.19"]
+[Round "1"]
+[White "mkhuda"]
+[Black "fairymax"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "King's pawn"]
+[Variation "Nimzovich defense"]
+[PlyCount "31"]
+[Termination "normal"]
+
+1. e4 Nc6 {[%eval 0.40/15]} 2. Nc3 {[%eval 0.26/8]} Nf6 {[%eval 0.51/17]} 3.
+Nf3 {[%eval 0.17/7]} d6 {[%eval 0.65/16]} 4. g3 {[%eval -0.28/5]} Be6 {[%eval
+0.55/17]} 5. Bg2 {[%eval 0.48/5]} a5 {[%eval 0.78/15]} 6. O-O h5 {[%eval
+0.86/16]} 7. d4 g6 {[%eval 3.17/17]} 8. d5 {[%eval 3.10/12]} Bg4 {[%eval
+3.90/16]} 9. dxc6 {[%eval 3.97/8]} bxc6 {[%eval 3.96/17]} 10. e5 {[%eval
+4.14/9]} Nd7 {[%eval 4.16/16]} 11. e6 Bxe6 {[%eval 4.04/16]} 12. Ng5 {[%eval
+3.88/12]} Bg4 {[%eval 4.25/16]} 13. Qd4 e5 {[%eval 6.46/19]} 14. Qd3 {[%eval
+2.96/11]} Bf5 {[%eval 5.95/19]} 15. Qc4 Bxc2 {[%eval 327.67/127]} 16. Qxf7# 1-0 

@@ -1,0 +1,21 @@
+[Event "Local Event"]
+[Site "Local Site"]
+[Date "2018.03.19"]
+[Round "1"]
+[White "mkhuda"]
+[Black "fairymax"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc defense"]
+[PlyCount "35"]
+[Termination "normal"]
+
+1. e4 Nf6 {[%eval 0.46/16]} 2. Nc3 d6 {[%eval 0.39/16]} 3. d4 {[%eval
+0.39/10]} Nbd7 {[%eval 0.62/14]} 4. Nf3 c5 {[%eval 0.99/15]} 5. g3 h5 {[%eval
+0.65/15]} 6. Bg2 {[%eval 0.51/9]} g6 {[%eval 0.87/15]} 7. O-O Bg7 {[%eval
+1.37/16]} 8. Nd5 Nxe4 {[%eval 0.58/17]} 9. Re1 {[%eval 0.57/12]} f5 {[%eval
+1.98/15]} 10. Nf4 Rh6 {[%eval 8.36/16]} 11. Ne6 Nxf2 {[%eval 12.44/15]} 12.
+Kxf2 {[%eval 12.58/8]} Bxd4+ {[%eval 13.43/17]} 13. Nfxd4 {[%eval 13.37/9]} Qb6
+{[%eval 14.48/18]} 14. Ng7+ {[%eval 10.83/9]} Kf7 {[%eval 15.00/15]} 15. Bd5+
+Kxg7 {[%eval 327.67/25]} 16. Rxe7+ {[%eval 10.20/4]} Kf6 {[%eval 327.67/127]}
+17. Rf7+ {[%eval 327.67/127]} Ke5 {[%eval 327.67/127]} 18. Nf3# 1-0 

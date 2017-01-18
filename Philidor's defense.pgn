@@ -1,0 +1,48 @@
+[Event "Local Event"]
+[Site "Local Site"]
+[Date "2018.03.21"]
+[Round "1"]
+[White "mkhuda"]
+[Black "Stockfish 7 64"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor's defense"]
+[PlyCount "127"]
+[Termination "normal"]
+
+1. e4 {[%eval 0.26/11]} d6 {[%eval 0.46/16]} 2. Nf3 {[%eval 0.38/14]} e5
+{[%eval 0.34/15]} 3. Nc3 {[%eval 0.20/9]} Nc6 {[%eval 0.34/16]} 4. d3 {[%eval
+-0.01/11]} f5 {[%eval 0.34/15]} 5. Qe2 {[%eval -0.18/5]} Nf6 {[%eval -0.18/16]}
+6. h3 {[%eval -0.25/6]} Be6 {[%eval 0.07/15]} 7. Bg5 {[%eval -0.33/10]} g6
+{[%eval 1.75/17]} 8. O-O-O {[%eval 0.34/11]} h6 {[%eval 0.33/16]} 9. Bxf6
+{[%eval 0.26/15]} Nd4 {[%eval 3.57/17]} 10. Qd2 {[%eval -0.39/5]} Qxf6 {[%eval
+0.32/17]} 11. Nd5 {[%eval -0.36/12]} Qf7 {[%eval 0.38/17]} 12. b3 {[%eval
+-1.16/12]} Nc6 {[%eval -0.93/15]} 13. Ne3 {[%eval -1.04/12]} Bg7 {[%eval
+-1.08/16]} 14. exf5 {[%eval -1.30/12]} Bxf5 {[%eval -0.57/17]} 15. Nc4 O-O
+{[%eval -1.22/15]} 16. Ng1 {[%eval -2.25/11]} Bd7 {[%eval -1.94/16]} 17. Nf3
+{[%eval -1.94/7]} d5 {[%eval -2.33/16]} 18. Nb2 {[%eval -2.14/12]} Qe8 {[%eval
+-1.62/13]} 19. Be2 Rf7 {[%eval -1.58/14]} 20. g4 {[%eval -3.07/11]} Be6 {[%eval
+-1.96/14]} 21. Rhf1 {[%eval -2.67/11]} Rf8 {[%eval -1.44/14]} 22. Ng1 {[%eval
+-2.24/9]} a6 {[%eval -1.75/15]} 23. Bf3 {[%eval -2.30/11]} Nd4 {[%eval
+-1.36/14]} 24. Qa5 Nxf3 {[%eval -5.26/15]} 25. Nxf3 {[%eval -5.48/12]} b6
+{[%eval -5.33/16]} 26. Qb4 {[%eval -5.50/9]} a5 {[%eval -5.23/15]} 27. Qc3 e4
+{[%eval -2.92/18]} 28. Ne5 {[%eval -2.87/15]} Bxg4 {[%eval -2.79/18]} 29. hxg4
+{[%eval -2.89/13]} Qxe5 {[%eval -1.24/17]} 30. Qxe5 {[%eval -1.23/16]} Bxe5
+{[%eval -1.30/18]} 31. Kb1 {[%eval -1.37/13]} b5 {[%eval -0.98/17]} 32. a4
+{[%eval -1.71/13]} bxa4 {[%eval -1.54/15]} 33. bxa4 Rfb8 {[%eval -3.65/17]} 34.
+Kc1 {[%eval -5.44/11]} Rb4 {[%eval -5.87/15]} 35. Rde1 {[%eval -5.94/8]} Bc3
+{[%eval -4.37/14]} 36. Nd1 Be5 {[%eval -2.06/15]} 37. c3 Bf4+ {[%eval
+-2.25/17]} 38. Kc2 Rbb8 {[%eval -0.10/17]} 39. dxe4 dxe4 {[%eval 0.08/16]} 40.
+Rxe4 Rf8 {[%eval 0.08/16]} 41. Nb2 Bd6 {[%eval 0.16/16]} 42. f3 {[%eval
+0.07/19]} h5 43. Rfe1 {[%eval -0.93/12]} h4 {[%eval -1.06/17]} 44. Rf1 {[%eval
+-1.06/9]} Rab8 {[%eval -0.24/16]} 45. f4 g5 {[%eval -0.69/16]} 46. f5 c6
+{[%eval 0.11/15]} 47. Nc4 Bg3 {[%eval 0.89/15]} 48. Nxa5 Rbc8 {[%eval 1.08/13]}
+49. Re6 h3 {[%eval 1.36/14]} 50. Nxc6 {[%eval 1.64/7]} Ra8 {[%eval 2.61/15]}
+51. Re3 Bd6 {[%eval 2.93/16]} 52. Rxh3 Rxa4 {[%eval 4.89/16]} 53. Rh6 {[%eval
+4.77/6]} Bg3 {[%eval 5.10/17]} 54. Rfh1 {[%eval 5.71/15]} Bh4 {[%eval 8.70/19]}
+55. Rg6+ {[%eval 8.70/6]} Kf7 {[%eval 9.00/17]} 56. Ne5+ Ke8 {[%eval 9.16/18]}
+57. Rd1 {[%eval 9.41/6]} Rf7 {[%eval 327.67/32]} 58. Re6+ Re7 {[%eval
+327.67/36]} 59. f6 {[%eval 327.67/8]} Rxe6 {[%eval 327.67/89]} 60. f7+ Ke7
+{[%eval 327.67/127]} 61. Rd7+ Kf8 {[%eval 327.67/127]} 62. Rd8+ Kg7 {[%eval
+327.67/127]} 63. f8=Q+ {[%eval 327.67/127]} Kh7 {[%eval 327.67/127]} 64. Qh8#
+1-0 

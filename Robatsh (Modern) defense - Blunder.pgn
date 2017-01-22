@@ -1,0 +1,14 @@
+[Event "Local Event"]
+[Site "Local Site"]
+[Date "2018.03.19"]
+[Round "1"]
+[White "mkhuda"]
+[Black "fairymax"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch (Modern) defense"]
+[PlyCount "7"]
+[Termination "normal"]
+
+1. e4 g6 {[%eval 0.87/14]} 2. d4 {[%eval 0.73/8]} f5 {[%eval 1.67/14]} 3. exf5
+{[%eval 1.74/13]} gxf5 {[%eval 327.67/127]} 4. Qh5# 1-0 

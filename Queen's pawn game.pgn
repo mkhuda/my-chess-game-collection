@@ -1,0 +1,26 @@
+[Event "FICS rated standard game"]
+[Site "freechess.org"]
+[Date "2018.03.15"]
+[Round ""]
+[White "bigzy"]
+[Black "PopBL"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[WhiteElo "1926"]
+[BlackElo "1883"]
+[TimeControl "900+0"]
+[WhiteClock "0:01:36.539"]
+[BlackClock "0:03:36.611"]
+[PlyCount "105"]
+[Termination "normal"]
+
+1. d4 d5 2. Nf3 e6 3. c4 Bb4+ 4. Nc3 dxc4 5. e4 b5 6. a4 c6 7. Bd2 Bxc3 8.
+Bxc3 Bb7 9. b3 cxb3 10. Qxb3 a6 11. axb5 cxb5 12. Bd3 Nf6 13. e5 Nd5 14. O-O
+Nxc3 15. Qxc3 Bxf3 16. gxf3 O-O 17. Bxb5 Nd7 18. Bxa6 Qb6 19. Bd3 Rfc8 20. Qd2
+g6 21. Be4 Rxa1 22. Rxa1 Rc4 23. Qh6 Rc8 24. Qe3 Kg7 25. f4 Qb2 26. Rd1 Rc4 27.
+d5 Nc5 28. Bg2 exd5 29. Bxd5 Rc3 30. Qd4 Ne6 31. Bxe6 fxe6 32. Qd7+ Kh6 33.
+Qxe6 Rf3 34. Rf1 Rxf4 35. Qh3+ Kg7 36. Qe3 Rg4+ 37. Kh1 Qb7+ 38. f3 Rh4 39. e6
+Qb2 40. Rf2 Qa1+ 41. Kg2 Rh5 42. e7 Re5 43. e8=Q Rxe3 44. Qxe3 Qf6 45. f4 Qc6+
+46. Qf3 Qd7 47. f5 gxf5 48. Qxf5 Qc6+ 49. Rf3 Qc4 50. Qf8+ Kg6 51. Rg3+ Kh5 52.
+Qf5+ Kh6 53. Qg5# 1-0 

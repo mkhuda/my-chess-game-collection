@@ -1,0 +1,17 @@
+[Event "Local Event"]
+[Site "Local Site"]
+[Date "2018.03.17"]
+[Round "1"]
+[White "mkhuda"]
+[Black "fairymax"]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian (centre counter) defense"]
+[PlyCount "17"]
+[Termination "normal"]
+
+1. e4 {[%eval 0.20/9]} d5 {[%eval 0.59/15]} 2. d3 {[%eval -0.06/5]} c5 {[%eval
+0.46/17]} 3. c4 {[%eval -0.36/6]} Qa5+ {[%eval 1.01/18]} 4. Bd2 Qb6 {[%eval
+1.55/17]} 5. Qa4+ {[%eval 0.00/8]} Nc6 {[%eval 3.60/19]} 6. exd5 Qxb2 {[%eval
+4.37/16]} 7. dxc6 Qxa1 {[%eval 327.67/127]} 8. cxb7+ {[%eval 327.67/127]} Kd8
+{[%eval 327.67/127]} 9. Ba5# 1-0 

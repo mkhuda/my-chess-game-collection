@@ -1,0 +1,23 @@
+[Event "FICS rated blitz game"]
+[Site "freechess.org"]
+[Date "2018.03.16"]
+[Round ""]
+[White "szesze"]
+[Black "sucaba"]
+[Result "0-1"]
+[ECO "D10"]
+[Opening "Queen's Gambit declined\"Slav defense"]
+[Variation "Exchange variation"]
+[WhiteElo "2119"]
+[BlackElo "1944"]
+[TimeControl "180+0"]
+[WhiteClock "0:01:24.794"]
+[BlackClock "0:01:09.329"]
+[PlyCount "54"]
+[Termination "normal"]
+
+1. c4 c6 2. d4 d5 3. cxd5 cxd5 4. Nc3 Nf6 5. Bf4 Bf5 6. e3 Ne4 7. Nxe4 Bxe4 8.
+Ne2 Nc6 9. Nc3 e6 10. Bb5 Bd6 11. Bxd6 Qxd6 12. O-O O-O 13. Nxe4 dxe4 14. Bxc6
+Qxc6 15. Rc1 Qd5 16. Rc5 Qxa2 17. Qc2 g6 18. Rc1 b6 19. Rc7 Qd5 20. h4 h5 21.
+Qa4 a5 22. Rd7 Qf5 23. Rcc7 Rac8 24. Qc6 Rxc7 25. Qxc7 Qb5 26. Kh2 a4 27. Qc3
+Qxd7 0-1 

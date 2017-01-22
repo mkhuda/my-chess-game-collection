@@ -1,0 +1,22 @@
+[Event "FICS rated blitz game"]
+[Site "freechess.org"]
+[Date "2018.03.15"]
+[Round ""]
+[White "Kombo"]
+[Black "Hexatetra"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defense"]
+[Variation "Two knights, Suttles variation"]
+[WhiteElo "2160"]
+[BlackElo "2197"]
+[TimeControl "180+0"]
+[WhiteClock "23:59:58.074"]
+[BlackClock "0:01:44.955"]
+[PlyCount "42"]
+[Termination "time forfeit"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 c6 4. Nc3 d6 5. Be3 Bg4 6. Be2 Bxf3 7. Bxf3 Nd7 8.
+Qe2 Nb6 9. O-O-O e6 10. h4 h5 11. Kb1 Bh6 12. d5 Bxe3 13. Qxe3 cxd5 14. exd5 e5
+15. Be2 f5 16. Bb5+ Kf7 17. f4 e4 18. Qd4 Nf6 19. Be2 a6 20. a4 Nbd7 21. Qb4
+Qc7 0-1 

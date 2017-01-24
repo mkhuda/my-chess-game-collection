@@ -1,0 +1,30 @@
+[Event "FICS rated blitz game"]
+[Site "freechess.org"]
+[Date "2018.03.15"]
+[Round ""]
+[White "MDLUCCA"]
+[Black "ChessRotull"]
+[Result "0-1"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[WhiteElo "1801"]
+[BlackElo "2080"]
+[TimeControl "180+0"]
+[WhiteClock "23:59:58.966"]
+[BlackClock "0:00:14.460"]
+[PlyCount "144"]
+[Termination "time forfeit"]
+
+1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Nxd4 e5 5. Nb3 Nf6 6. f3 Bb4+ 7. Bd2 Nc6 8.
+a3 Be7 9. Be3 d6 10. c4 Be6 11. Nc3 O-O 12. Be2 h6 13. O-O Na5 14. Nxa5 Qxa5
+15. b4 Qc7 16. Rc1 Rfc8 17. Nd5 Bxd5 18. cxd5 Qd7 19. Qd2 Rxc1 20. Rxc1 Rc8 21.
+Rc3 Rxc3 22. Qxc3 Nh7 23. Bb6 Kf8 24. Qc7 Qxc7 25. Bxc7 Ke8 26. Kf2 Kd7 27. Bb6
+Bd8 28. Be3 Kc7 29. f4 exf4 30. Bxf4 Bg5 31. g3 Nf8 32. Bh5 g6 33. Be2 Nd7 34.
+Kf3 Bxf4 35. gxf4 Kb6 36. a4 a5 37. bxa5+ Kxa5 38. Bb5 Nf6 39. h3 Kb4 40. Ke3
+Kc5 41. Kd3 Nh5 42. Ke3 g5 43. fxg5 hxg5 44. Be8 Nf4 45. h4 Ng2+ 46. Kd3 Nxh4
+47. Bxf7 g4 48. Ke3 Nf3 49. Bh5 Ne5 50. Kf4 Kd4 51. Be8 b6 52. Bc6 Kc5 53. Be8
+Kd4 54. Bc6 g3 55. Kxg3 Kxe4 56. Kf2 Nc4 57. Ke2 Ne3 58. Kd2 Nxd5 59. Kc2 Kd4
+60. Kb3 Kc5 61. Bb7 Nb4 62. Kc3 d5 63. Kd2 Kd4 64. Ba6 Nc6 65. Bb5 Ne5 66. Bf1
+Nc4+ 67. Kc2 Kc5 68. Kd3 Ne5+ 69. Kc3 Nc6 70. Be2 d4+ 71. Kb3 Ne5 72. Kc2 Kb4
+0-1 

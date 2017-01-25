@@ -1,0 +1,20 @@
+[Event "FICS rated blitz game"]
+[Site "freechess.org"]
+[Date "2018.03.15"]
+[Round ""]
+[White "seved"]
+[Black "palecek"]
+[Result "0-1"]
+[ECO "B50"]
+[Opening "Sicilian"]
+[WhiteElo "1721"]
+[BlackElo "2037"]
+[TimeControl "180+2"]
+[WhiteClock "0:02:21.952"]
+[BlackClock "0:02:37.697"]
+[PlyCount "34"]
+[Termination "normal"]
+
+1. e4 c5 2. Nf3 d6 3. a3 Nf6 4. Bd3 g6 5. c3 Bg7 6. b4 b6 7. Qe2 O-O 8. h3 Bb7
+9. Bc2 Nbd7 10. d3 e5 11. Bg5 h6 12. Be3 d5 13. O-O Rc8 14. Nbd2 d4 15. cxd4
+cxd4 16. Nxd4 exd4 17. Bxd4 Rxc2 0-1 
